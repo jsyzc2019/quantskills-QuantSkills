@@ -12461,7 +12461,7 @@
   "compatibility_edges": [],
   "evaluations": {
     "mode": "shadow",
-    "snapshot_digest": "887ae8e99f5f6c615c90772abb078c6f07a7395262c75365700d62d11c0e648e",
+    "snapshot_digest": "5977a39f6b933be017462215bbee7dd61072ad9a02dbccb57743c3e094fbde48",
     "score_record_count": 217,
     "recommended_record_count": 28,
     "recommendation_policy": "shadow-category-quartile.v1"
